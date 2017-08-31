@@ -33,18 +33,4 @@ Global
 		{5555374B-E0F2-4837-BF02-F7FF1DD9AD38} = {2BD6B349-9D9B-4556-B900-005B2AA14CF1}
 		{78647EC3-B27D-4E29-B7C4-2599204CC6C2} = {04987261-F4BF-45C1-A5EB-8C423BE8B778}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://v-tfs1:8080/tfs/ficodm
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = frontend\\CurrencyExchangeService.FrontEnd\\CurrencyExchangeService.FrontEnd.csproj
-		SccProjectTopLevelParentUniqueName1 = CurrencyExchangeService.sln
-		SccProjectName1 = frontend/CurrencyExchangeService.FrontEnd
-		SccLocalPath1 = frontend\\CurrencyExchangeService.FrontEnd
-		SccProjectUniqueName2 = src\\CurrencyExchangeService.BusinessLogic\\CurrencyExchangeService.BusinessLogic.csproj
-		SccProjectTopLevelParentUniqueName2 = CurrencyExchangeService.sln
-		SccProjectName2 = src/CurrencyExchangeService.BusinessLogic
-		SccLocalPath2 = src\\CurrencyExchangeService.BusinessLogic
-	EndGlobalSection
 EndGlobal
