@@ -1,0 +1,61 @@
+body {
+    border-top: 20px solid #4DB28B;
+    font-family: 'Droid Sans', sans-serif;
+    padding-top: 20px;
+}
+
+#title {
+    -ms-background-position: top center;
+    background-image: url('gradient.png');
+    background-position: top center;
+}
+
+#title h3 {
+    color: #FBFBFB;
+    line-height: 2.0em;
+    margin: 0;
+}
+
+#edit-form h3 {
+    line-height: 1.4em;
+    margin: 0;
+}
+
+#desc {
+    font-size: 1.1em;
+    padding-top: 1em;
+    text-align: justify;
+}
+
+.table thead {
+    background-color: #E05B4A;
+    color: #FBFBFB;
+}
+
+.selected {
+    background-color: #4DB28B;
+    color: #FBFBFB;
+}
+
+.clickable { cursor: pointer; }
+
+.spacer { padding-bottom: 150px; padding-top: 50px; }
+
+.feedback {
+    color: #3c763d;
+    font-size: 1.1em;
+    line-height: 2.0em;
+    text-align: center;
+}
+
+.error { color: #a94442; }
+
+.label-big {
+    display: block;
+    font-size: 1.0em;
+    line-height: 2.0em;
+}
+
+.btn-spacing .btn {
+    margin: 2px;
+}

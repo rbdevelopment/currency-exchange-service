@@ -1,0 +1,24 @@
+﻿@{
+    Layout = "..\\Shared\\_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-md-8">
+        <img src='@Url.Content("~/Content/logo.png")' alt="logo" title="" />
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12" id="title">
+        <h3>Welcome to the currency exchange service</h3>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="spacer">
+            <div id="conversion"></div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" src="~/Content/js/bundle.js"></script>
